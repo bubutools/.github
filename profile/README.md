@@ -17,3 +17,11 @@ BUBU is a web-based tool where you can explore NFT collections and various NFT a
 ## Roadmap
 
 
+<br>
+<br>
+
+<p align="center">
+  <a> 
+  <img src="assets/images/bnftlogo-2.png" />
+  </a>
+<p>
